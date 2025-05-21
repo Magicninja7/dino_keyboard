@@ -11,6 +11,6 @@ Afterward i researched a bit on how i can limit the number if gpio pins needed t
 
 
 # BOM
- - vfd [screen](https://pl.aliexpress.com/item/1005004089460021.html?spm=a2g0o.detail.0.0.41491vTa1vTaJz&productId=1005004089460021&pdp_ext_f=%7B%22tabScene%22%3A%22retail%22%2C%22sku_id%22%3A12000027996230135%2C%22origProductId%22%3A%221005004089460021%22%7D&#nav-specification)
+ - e-ink [screen](https://pl.aliexpress.com/item/1005004089460021.html?spm=a2g0o.detail.0.0.41491vTa1vTaJz&productId=1005004089460021&pdp_ext_f=%7B%22tabScene%22%3A%22retail%22%2C%22sku_id%22%3A12000027996230135%2C%22origProductId%22%3A%221005004089460021%22%7D&#nav-specification)
  - 84 keys
  - raspi Pico
