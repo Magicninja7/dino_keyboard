@@ -11,6 +11,6 @@ Afterward i researched a bit on how i can limit the number if gpio pins needed t
 
 
 # BOM
- - vfd [screen](https://pl.aliexpress.com/item/1005002932421503.html?spm=a2g0o.productlist.main.7.2792218fKhUGaZ&algo_pvid=f9c26ffc-ae3f-48a2-a227-4100e95b4be7&algo_exp_id=f9c26ffc-ae3f-48a2-a227-4100e95b4be7-6&pdp_ext_f=%7B%22order%22%3A%22155%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21PLN%2137.00%2135.04%21%21%219.61%219.10%21%40210390c217478490433577376ed58d%2112000022859299961%21sea%21PL%210%21ABX&curPageLogUid=fXN6sVYQ5Lpk&utparam-url=scene%3Asearch%7Cquery_from%3A)
+ - vfd [screen](https://www.tme.eu/pl/details/m0220sd-202sdar1/wyswietlacze-vfd/newhaven-display-international/?brutto=1&currency=PLN&gQT=1)
  - 84 keys
  - raspi Pico
