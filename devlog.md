@@ -9,8 +9,9 @@ Today i finished the key matrix, and researched on how demanding would led matri
 Afterward i researched a bit on how i can limit the number if gpio pins needed to create a led matrix. however i found no satisfactory one, so i just decided on a screen. But lcd are ugly, i hate the tint, slow speed, and small viewing angles. I found e-ink screens, and decided on using that one. i added it onto the scematics, alongside a handful of led.
 
 After that i placed most of the keys, only leaving the top row (known as the f keys). i left the eink display and potentiometer out of the pcb (it will be in an alternate position). I also will add another pico, since the first one has to little gpio pins. (im writing this paragraph the day after)
+![keyboard-image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/59ddb4307d9cd69ad2d32918de79ff7188cd0e5d_image.png)
 
-
+# Day 3
 
 # BOM
  - e-ink [screen](https://pl.aliexpress.com/item/1005004089460021.html?spm=a2g0o.detail.0.0.41491vTa1vTaJz&productId=1005004089460021&pdp_ext_f=%7B%22tabScene%22%3A%22retail%22%2C%22sku_id%22%3A12000027996230135%2C%22origProductId%22%3A%221005004089460021%22%7D&#nav-specification)
