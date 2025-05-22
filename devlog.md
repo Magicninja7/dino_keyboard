@@ -14,7 +14,7 @@ After that i placed most of the keys, only leaving the top row (known as the f k
 
 
 
-# Day 3 ~3 hours
+# Day 3 (22.05.25) ~3 hours
 Now i have routed and placed everything, it was a big pain in the ass. The routing is ***very*** ugly, but it works, and its all that matters. I have also added the extra pico to the pcb. finally the pcb is finished.
 ![pain and suffering](https://hc-cdn.hel1.your-objectstorage.com/s/v3/53ba9582493ce6c19e65b22409e8a4f650aa0d3e_image.png)
 
