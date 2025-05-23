@@ -18,8 +18,9 @@ After that i placed most of the keys, only leaving the top row (known as the f k
 Now i have routed and placed everything, it was a big pain in the ass. The routing is ***very*** ugly, but it works, and its all that matters. I have also added the extra pico to the pcb. finally the pcb is finished.
 ![pain and suffering](https://hc-cdn.hel1.your-objectstorage.com/s/v3/53ba9582493ce6c19e65b22409e8a4f650aa0d3e_image.png)
 
-
-
+# Day 4 (23.05.25) ~3 hours
+After making a almost complete 3d model for it, i realised the kays are slightly tilted, so i went back and deleted it, and remade it.
+![more pain](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f1c365415130eeb4cbb24eef1be747784eb9511a_image.png)
 
 
 
