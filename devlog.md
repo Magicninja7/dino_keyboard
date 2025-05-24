@@ -22,9 +22,13 @@ Now i have routed and placed everything, it was a big pain in the ass. The routi
 After making a almost complete 3d model for it, i realised the kays are slightly tilted, so i went back and deleted it, and remade it.
 ![more pain](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f1c365415130eeb4cbb24eef1be747784eb9511a_image.png)
 
-
+# Day 5 (24.05.25)
+Today i made the keyboard in fusion, creating the case, adding the top layer, pasting the pcb, and adding the rest of the parts. I also added 2x rotary encoders, 1x slider, and changed from the eink screen to the ssd1306. The reason? easier coding & wiring and alright contrast. I also decided on a slightly different design, not the classic 75%, but with more keys, with massively different positioning.
+![pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2cb3577b6e4d975f5a6bd7d05bdb38c39240afd_image.png)
 
 # BOM
- - e-ink [screen](https://pl.aliexpress.com/item/1005004089460021.html?spm=a2g0o.detail.0.0.41491vTa1vTaJz&productId=1005004089460021&pdp_ext_f=%7B%22tabScene%22%3A%22retail%22%2C%22sku_id%22%3A12000027996230135%2C%22origProductId%22%3A%221005004089460021%22%7D&#nav-specification)
+ - SSD1306
  - 84 keys
- - raspi Pico
+ - 2x raspi Pico
+ - 2x EC11 rotary encoder
+ - B10K slide potentiometer
