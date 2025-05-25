@@ -27,10 +27,10 @@ Today i made the keyboard in fusion, creating the case, adding the top layer, pa
 ![pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2cb3577b6e4d975f5a6bd7d05bdb38c39240afd_image.png)
 
 # Day 6 (25.05.25) 
-Now im setting up QMK. Oh, and i also switched from the ssd1306 to a transparent oled, it looks so much cooler and slimmer. +its transparent.
+Now im setting up QMK.
 
 # BOM
- - [Transparent OLED (128 x 640)](https://thepihut.com/products/1-51inch-transparent-oled-128-x-64?variant=42490967457987&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=0)
+ - ssd1306
  - 84 keys
  - 2x raspi Pico
  - 2x EC11 rotary encoder
