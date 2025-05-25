@@ -22,12 +22,15 @@ Now i have routed and placed everything, it was a big pain in the ass. The routi
 After making a almost complete 3d model for it, i realised the kays are slightly tilted, so i went back and deleted it, and remade it.
 ![more pain](https://hc-cdn.hel1.your-objectstorage.com/s/v3/f1c365415130eeb4cbb24eef1be747784eb9511a_image.png)
 
-# Day 5 (24.05.25)
+# Day 5 (24.05.25) ~5 hours
 Today i made the keyboard in fusion, creating the case, adding the top layer, pasting the pcb, and adding the rest of the parts. I also added 2x rotary encoders, 1x slider, and changed from the eink screen to the ssd1306. The reason? easier coding & wiring and alright contrast. I also decided on a slightly different design, not the classic 75%, but with more keys, with massively different positioning.
 ![pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2cb3577b6e4d975f5a6bd7d05bdb38c39240afd_image.png)
 
+# Day 6 (25.05.25) 
+Now im setting up QMK. Oh, and i also switched from the ssd1306 to a transparent oled, it looks so much cooler and slimmer. +its transparent.
+
 # BOM
- - SSD1306
+ - [Transparent OLED (128 x 640)](https://thepihut.com/products/1-51inch-transparent-oled-128-x-64?variant=42490967457987&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gQT=0)
  - 84 keys
  - 2x raspi Pico
  - 2x EC11 rotary encoder
