@@ -5,6 +5,7 @@ created_at: 21.05.2025
 
 # Day 1 (19.05.2025) ~1hour
 Created a folder for the project, and added symbols & footprints for both xiao and raspi microcontrollers. Watched a couple videos on how to make a key matrix, and not too long later, i started making the matrix
+![photo](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ff694ff571b470d64be2720042c7206102594aa2_image.png)
 
 # Day 2 (21.05.2025) ~5hours
 Today i finished the key matrix, and researched on how demanding would led matrixes be. due to gpio limitations, i switched to the raspi pico (originally used seeed rp2040 dip)
