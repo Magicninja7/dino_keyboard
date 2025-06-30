@@ -10,3 +10,15 @@ Why? i literally thought: hmm, a keyboard would look nice on my desk. And highwa
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c2d560d73fbcfa300aea3b5a6197051bd6ed226_image.png)
 ### diagram
 ![diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7625c8abc3ae897c2e5a68bde3e9c7f6704b5ae4_image.png)
+
+
+# BOM
+| thing                  | cost    |
+| ---------------------- | ------- |
+| ssd1306                | 2$      |
+| 84 keycaps             | 10-15$  |
+| 2x rapsi pico          | 2x 7$   |
+| 2x EC11 rotary encoder | 2x 1$   |
+| 84x cherry mx switches | ~22$    |
+| JLCPCB + shipping      | 40$     |
+------------------------------------
