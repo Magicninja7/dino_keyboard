@@ -29,7 +29,7 @@ Today i made the keyboard in fusion, creating the case, adding the top layer, pa
 ![pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a2cb3577b6e4d975f5a6bd7d05bdb38c39240afd_image.png)
 
 # Day 6 (25.05.25) ~5 hours
-Now im setting up QMK, and am reading the docs, and watching videos and reading over templates.
+Made an attempt at using qmk configurator, and python. both ended in a loss. Now im setting up QMK, and am reading the docs, and watching videos and reading over templates, while making a draft of my own.
 
 # Day 7 (30.06.25) ~10 hours
 F me im still doing qmk. Today i coded like 5 version, all of which failed. In times of desperation, i turned to reddit, and after 200 views, im yet to get a response. 
