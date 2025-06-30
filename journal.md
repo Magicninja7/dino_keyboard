@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/eb174d63-a689-44b5-9c19-9489b279c64c)![image](https://github.com/user-attachments/assets/089dfada-70ab-4972-935f-e0977079298b)Made by: @Magic (slack)
-total hours - ~3
+title: DIno keyboard
+author: @Magic (slack)
+description: A completely custom keyboard!
+created_at: 21.05.2025
 
 # Day 1 (19.05.2025) ~1hour
 Created a folder for the project, and added symbols & footprints for both xiao and raspi microcontrollers. Watched a couple videos on how to make a key matrix, and not too long later, i started making the matrix
@@ -44,3 +46,6 @@ this is the most simple, cut down version of QMK i now have, and it still doesnt
  - 2x raspi Pico
  - 2x EC11 rotary encoder
  - B10K slide potentiometer
+ - cad
+
+
