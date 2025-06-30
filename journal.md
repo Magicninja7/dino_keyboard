@@ -37,7 +37,7 @@ Anyway, after 9 hours of debugging, sorry, **trying to debug** i decided on poli
 ![look](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9904bacde1168035b28a8edc0a90c781bc96ad4_image.png)
 this is the most simple, cut down version of QMK i now have, and it still doesnt work.
 ![bs](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d267c7f422cb418605fb514ff471d4f4caf83999_image.png)
-
+And scratch the b10k, i don't have the correct pins necessary.
 
 
 # BOM
@@ -45,7 +45,6 @@ this is the most simple, cut down version of QMK i now have, and it still doesnt
  - 84 keys
  - 2x raspi Pico
  - 2x EC11 rotary encoder
- - B10K slide potentiometer
  - cad
 
 
