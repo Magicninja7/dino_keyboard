@@ -36,7 +36,7 @@ Made an attempt at using qmk configurator, and python. both ended in a loss. Now
 
 # Day 7 (30.06.25) ~10 hours
 F me im still doing qmk. Today i coded like 5 version, all of which failed. At first i even created a nicely drawn keyboard, and made 4 layers, but noooo. Got errors till i gave up, and stated deleting problematic things. In times of desperation, i turned to reddit, and after 200 views, im yet to get a response. 
-Anyway, after 9 hours of debugging, sorry, **trying to debug** i decided on polishing the cad instead. So while waiting for my answer from reddit or #code, i smoothed out the edges, and fixed tons of small 0.1 mm errors. 
+Anyway, after 9 hours of debugging, sorry, **trying to debug** i decided on polishing the cad instead. So while waiting for my answer from reddit or #code, i smoothed out the edges, and fixed tons of small 0.1 mm errors. Note: i will continue working on the firmware, once i make the keyboard, since my matrix is pretty messed up, so even if qmk compiles, im not sure if it'd work correctly.
 ![look](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9904bacde1168035b28a8edc0a90c781bc96ad4_image.png)
 this is the most simple, cut down version of QMK i now have, and it still doesnt work.
 ![bs](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d267c7f422cb418605fb514ff471d4f4caf83999_image.png)
