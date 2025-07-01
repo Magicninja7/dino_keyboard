@@ -1,5 +1,3 @@
-total hours - ~32
-
 # Description
 A keyboard with 84 keys, a ssd1306 mini-display, and 2 ec11 potentiometers. It has a unque look, with lots of extra keys for ex. undo, copy, paste, print, etc. You can also control the brightness and volume with the knobs (yes, i change the brightness that often).
 Why? i literally thought: hmm, a keyboard would look nice on my desk. And highway happened, so i actually did it! 
