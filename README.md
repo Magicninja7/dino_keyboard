@@ -20,7 +20,7 @@ Why? i literally thought: hmm, a keyboard would look nice on my desk. And highwa
 | keycaps | 25$ | 125 | 25$ | https://www.ebay.com/itm/374554619019?var=643532147086&utm_source=chatgpt.com
 | raspi pico | 8$ | 2 | 16$ | https://botland.com.pl/moduly-i-zestawy-do-raspberry-pi-pico/21574-raspberry-pi-pico-w-rp2040-arm-cortex-m0-cyw43439-wifi-5056561803173.html
 | EC11 rotary encoder | 1$ | 2 | 2$ | https://kamami.pl/enkodery/1191644-modul-encoder-impulsator-ec11-20-impulsow-z-przyciskiem-rotary-enkoder-5906623487332.html?gQT=1
-| PCB | 45$ | 1 | 45$ | https://cart.jlcpcb.com/shopcart/cart/
+| PCB | 45$ | 1 | 45$ | n/d
 
 
 
