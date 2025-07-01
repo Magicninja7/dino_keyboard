@@ -2,6 +2,7 @@ title: DIno keyboard
 author: @Magic (slack)
 description: A completely custom keyboard!
 created_at: 21.05.2025
+total time: 32 hours
 
 # Day 1 (19.05.2025) ~1hour
 Created a folder for the project, and added symbols & footprints for both xiao and raspi microcontrollers. Watched a couple videos on how to make a key matrix, and not too long later, i started making the matrix
