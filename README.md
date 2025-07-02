@@ -7,7 +7,7 @@ Why? i literally thought: hmm, a keyboard would look nice on my desk. And highwa
 ### PCB
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c2d560d73fbcfa300aea3b5a6197051bd6ed226_image.png)
 ### diagram
-![diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/7625c8abc3ae897c2e5a68bde3e9c7f6704b5ae4_image.png)
+![diagram](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2d36006d51a68098a573e4a673f0e4a122251d99_68747470733a2f2f68632d63646e2e68656c312e796f75722d6f626a65637473746f726167652e636f6d2f732f76332f373632356338616263336165383937633265356136386264653365396337663637303462356165345f696d6167652e706e67.png)
 
 
 # BOM
