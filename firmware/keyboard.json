@@ -1,7 +1,7 @@
 {
     "manufacturer": "Jan Ptaszek",
     "keyboard_name": "cluebord/Magicninja7",
-    "maintainer": "Overlord-Runt",
+    "maintainer": "Magicninja7",
     "bootloader": "pico",
     "diode_direction": "COL2ROW",
     "features": {
