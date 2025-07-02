@@ -1,8 +1,8 @@
 {
-    "manufacturer": "Taran Mittal",
-    "keyboard_name": "handwired/runtboard",
+    "manufacturer": "Jan Ptaszek",
+    "keyboard_name": "cluebord/Magicninja7",
     "maintainer": "Overlord-Runt",
-    "bootloader": "rp2040",
+    "bootloader": "pico",
     "diode_direction": "COL2ROW",
     "features": {
         "bootmagic": true,
@@ -13,20 +13,20 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["GP10", "GP11", "GP12", "GP13", "GP0", "GP1", "GP2", "GP3"],
-        "rows": ["GP28", "GP27", "GP22", "GP26", "GP21", "GP20", "GP18", "GP19", "GP17", "GP16", "GP14"]
+        "cols": ["GP02, "GP03", "GP04", "GP05", "GP06", "GP07", "GP08", "GP09", "GP10", "GP11", "GP21", "GP22"],
+        "rows": ["GP12", "GP13", "GP14", "GP15", "GP16", "GP17", "GP20"]
     },
     "encoder": {
         "rotary": [
-          { "pin_a": "GP7", "pin_b": "GP6", "resolution": 4 },
-          { "pin_a": "GP8", "pin_b": "GP9", "resolution": 4 }
+          { "pin_a": "GP02", "pin_b": "GP03", "resolution": 4 },
+          { "pin_a": "GP06", "pin_b": "GP07", "resolution": 4 }
         ]
     },
-    "processor": "RP2040",
+    "processor": "Pico",
     "url": "",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0000",
+        "pid": "0x1234",
         "vid": "0xFEED"
     },
     "layouts": {
