@@ -20,5 +20,8 @@ Why? i literally thought: hmm, a keyboard would look nice on my desk. And highwa
 | EC11 rotary encoder | 1$ | 2 | 2$ | https://kamami.pl/enkodery/1191644-modul-encoder-impulsator-ec11-20-impulsow-z-przyciskiem-rotary-enkoder-5906623487332.html?gQT=1
 | PCB | 45$ | 1 | 45$ | n/d
 
+total = 132
+total w/ customs & shipping = ~150 (assuming a 15% taxrate, but it **can** be higher, its just really hard to predict)
+
 
 
