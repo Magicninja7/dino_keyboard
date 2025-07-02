@@ -43,12 +43,8 @@ this is the most simple, cut down version of QMK i now have, and it still doesnt
 ![bs](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d267c7f422cb418605fb514ff471d4f4caf83999_image.png)
 And scratch the b10k, i don't have the correct pins necessary.
 
-
-# BOM
- - ssd1306
- - 84 keys
- - 2x raspi Pico
- - 2x EC11 rotary encoder
- - cad
-
+# Day 8 (02.07.25) ~4 hours
+At last, after help from some fellow redditors, i managed to get it to work. I also made the animation for the ssd1306, hich is a running dino, from the chrome easter egg.
+![pic](https://hc-cdn.hel1.your-objectstorage.com/s/v3/6d070a66ba90ed53afe589efea60d857afd8fbe3_image.png)
+![pic2](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e780051dd605963e5329e4dcfc2516b7351fcab4_image.png)
 
