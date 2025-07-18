@@ -3,7 +3,7 @@ A keyboard with 84 keys, a ssd1306 mini-display, and 2 ec11 potentiometers. It h
 Why? i literally thought: hmm, a keyboard would look nice on my desk. And highway happened, so i actually did it! 
 
 ### CAD render
-![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b7a89ef43125601314af940d2ac2969744474c3b_image.png)
+![render](https://hc-cdn.hel1.your-objectstorage.com/s/v3/36c00e5a58f5ca037cb8d233d1fc4f868628b71a_image.png)
 ### PCB
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c2d560d73fbcfa300aea3b5a6197051bd6ed226_image.png)
 ### diagram
